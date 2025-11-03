@@ -61,8 +61,15 @@ GROUP BY payment_type;
 ### 📸 Screenshot
 
 1. Terminal output ETL sukses
+   ![terminal output](https://github.com/user-attachments/assets/89b22331-d372-4b8a-8ec9-6110d068a98c)
+
 2. Tampilan tabel `data_penjualan_online` di PostgreSQL
+   ![Tabel penjualan online](https://github.com/user-attachments/assets/ed74d0f9-c82f-4dc6-9ab6-368bb689a45a)
+
 3. Hasil query SQL (grafik atau tabel)
+   ![Penjualan metode pembayaran](https://github.com/user-attachments/assets/948df5bc-277f-4af6-8871-394b35c06c49)
+   ![Transaksi perbulan](https://github.com/user-attachments/assets/9c74242d-3fa4-4aab-b692-1ba4c5f0ccba)
+
 
 ---
 
