@@ -144,5 +144,3 @@ Dataset: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/d
 🎯 *Calon Data Engineer – membangun end-to-end pipeline dari ETL hingga Data Warehouse.*
 
 ````
-
----
