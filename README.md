@@ -103,9 +103,12 @@ ORDER BY total_penjualan DESC;
 
 ## 📸 Screenshot Hasil Query
 
-|               Total Penjualan per Bulan               |     Total Penjualan per Metode Pembayaran     |
-| :---------------------------------------------------: | :-------------------------------------------: |
+|               Total Penjualan per Bulan               |
+| :---------------------------------------------------: |
 | ![Total penjualan per bulan](https://github.com/user-attachments/assets/207ca55d-7a7c-43be-87c7-8533be8a9cd2)
+
+|     Total Penjualan per Metode Pembayaran             |
+
  | ![Total penjualan per metode pembayaran](https://github.com/user-attachments/assets/ebae1548-5006-4d1c-a4ff-5dc772fe9616)
  |
 
@@ -114,11 +117,9 @@ ORDER BY total_penjualan DESC;
 ## 🧾 Checklist Deliverable
 
 * [x] `create_dwh_schema.sql` — Script SQL pembuatan Star Schema
-* [x] `load_dwh.py` — Otomatisasi populate dimensi & fakta
 * [x] `erd_dwh.png` — Diagram ERD Data Warehouse
 * [x] `query_results_total_per_bulan.png` — Screenshot hasil query
 * [x] `README.md` — Dokumentasi lengkap
-* [ ] (Opsional) `export_sample_data.sql` — Contoh data hasil ETL
 
 ---
 
@@ -127,7 +128,6 @@ ORDER BY total_penjualan DESC;
 * Penerapan konsep **Dimensional Modeling (Star Schema)**.
 * Membangun koneksi antar tabel (Foreign Key) untuk analitik.
 * Melakukan query agregasi lintas dimensi (waktu & metode pembayaran).
-* Otomatisasi proses loading data menggunakan **SQLAlchemy**.
 
 ---
 
