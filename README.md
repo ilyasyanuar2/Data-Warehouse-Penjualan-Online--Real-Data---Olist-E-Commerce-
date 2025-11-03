@@ -1,12 +1,3 @@
-Perfect 👏 — kamu sudah mikir seperti seorang **Data Engineer profesional** yang mau bikin project-nya enak dilihat oleh HR dan recruiter.
-
-Aku bantu kamu bikin **README.md yang rapi, profesional, dan menarik untuk GitHub**, dengan struktur yang ideal untuk **Project 2 (Data Warehouse / Star Schema)**.
-Template ini bisa kamu **copy langsung ke README.md** repo kamu.
-
----
-
-## 🧾 Contoh README.md (Final Template — Project 2)
-
 ````markdown
 # 🏗️ Data Warehouse (Star Schema) – Penjualan Online (Olist E-Commerce)
 
@@ -67,7 +58,8 @@ Tabel utama:
 
 ## 📜 Skema DWH (Star Schema)
 
-![ERD Data Warehouse](erd_dwh.png)
+<img width="799" height="376" alt="erd_dwh" src="https://github.com/user-attachments/assets/8420d6b1-c65e-44cb-ae08-dd8712abef9f" />
+
 
 > Dibuat menggunakan [dbdiagram.io](https://dbdiagram.io)
 
@@ -113,7 +105,9 @@ ORDER BY total_penjualan DESC;
 
 |               Total Penjualan per Bulan               |     Total Penjualan per Metode Pembayaran     |
 | :---------------------------------------------------: | :-------------------------------------------: |
-| ![Total per Bulan](query_results_total_per_bulan.png) | ![Per Payment](query_results_per_payment.png) |
+| ![Total penjualan per bulan](https://github.com/user-attachments/assets/207ca55d-7a7c-43be-87c7-8533be8a9cd2)
+ | ![Total penjualan per metode pembayaran](https://github.com/user-attachments/assets/ebae1548-5006-4d1c-a4ff-5dc772fe9616)
+ |
 
 ---
 
